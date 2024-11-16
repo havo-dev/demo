@@ -1,0 +1,10 @@
+.left-menu {
+  background: var(--background-left);
+  .active-item {
+    background-color: var(--active-item);
+    border-left: 3px solid var(--login-block);
+  }
+  .login-container {
+    background-color: var(--login-block);
+  }
+}

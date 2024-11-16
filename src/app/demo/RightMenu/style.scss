@@ -1,0 +1,19 @@
+.right-menu {
+  background: var(--main-background);
+  .button-block {
+    .left-block {
+      background-color: var(--active-item);
+      border-radius: 25px;
+    }
+    .active-button {
+      border-radius: 25px;
+      background-color: var(--button-color);
+    }
+  }
+  .circle-icon {
+    background-color: var(--active-item);
+  }
+  .song-block {
+    background-color: var(--login-block);
+  }
+}
